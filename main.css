@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #f2f2f2;
+}
+/*--- navigation bar ---*/
+.navbar {
+  background:#2c2c2c;
+}
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+.navbar-brand:hover {
+  color: #fff;
+}
+.nav-link {
+  margin-right: 1em !important;
+}
+.nav-link:hover {
+  color: #fa5400;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.description {
+  left: 50%;
+  position: absolute;
+  top: 45%;
+  transform: translate(-50%, -55%);
+  text-align: center;
+}
+.description h1 {
+  color: #fa5400;
+}
+.description p {
+  color: #2c2c2c;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
