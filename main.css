@@ -22,7 +22,7 @@ body {
   color: #fa5400;
 }
 .description {
-  top: 50%;
+  padding-top: 50%;
   text-align: center;
 }
 .description h1 {
