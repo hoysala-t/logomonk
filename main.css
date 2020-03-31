@@ -14,9 +14,6 @@ body {
 .navbar-brand:hover {
   color: #fa5400;
 }
-.nav-link {
-  margin-right: 1em !important;
-}
 .nav-link:hover {
   color: #fa5400;
 }
