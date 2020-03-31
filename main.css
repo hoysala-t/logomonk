@@ -10,7 +10,6 @@ body {
 .nav-link,
 .navbar-brand {
   color: #fff;
-  cursor: pointer;
 }
 .navbar-brand:hover {
   color: #fff;
