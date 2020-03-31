@@ -35,4 +35,5 @@ body {
 h1, .h1 {
   font-size: 2em;
   font-weight: lighter;
+  text-align: center;
 }
