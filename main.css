@@ -1,4 +1,6 @@
 body {
+  padding: 0;
+  margin: 0;
   background: #f2f2f2;
 }
 /*--- navigation bar ---*/
@@ -11,6 +13,9 @@ body {
 }
 .navbar-brand:hover {
   color: #fff;
+}
+.nav-link {
+  margin-right: 1em !important;
 }
 .nav-link:hover {
   color: #fa5400;
